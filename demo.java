@@ -1,3 +1,7 @@
+void subtraction()
+{
+ C=A-B
+}
 void addition()
 {
  C=A+B
