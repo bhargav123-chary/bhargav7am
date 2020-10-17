@@ -1,9 +1,12 @@
 class bank
 {
- 
+  void withdraw()
+ {
+  bal = bal - amt
+ } 
    void depoiste()
   {
-   bal =bal + amt
+   bal = bal + amt
   }
 
 }
