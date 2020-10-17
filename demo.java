@@ -2,6 +2,10 @@ void mul()
 {
  C=A*B
 }
+void div()
+{
+ A=B/C
+}
 
 void subtraction()
 {
