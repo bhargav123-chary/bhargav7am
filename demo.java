@@ -1,3 +1,17 @@
+class bank
+{
+ 
+   void depoiste()
+  {
+   bal =bal + amt
+  }
+
+}
+
+
+
+
+
 void mul()
 {
  C=A*B
