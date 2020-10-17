@@ -1,3 +1,8 @@
+void mul()
+{
+ C=A*B
+}
+
 void subtraction()
 {
  C=A-B
