@@ -1,3 +1,8 @@
+void addition()
+{
+ C=A+B
+}
+
 class Demo 
 {
  public static void main(...)
